@@ -1,4 +1,4 @@
 # friendly-workshop
 Demo Project
 
-Name: Zaid
+Name: Yash Shah
