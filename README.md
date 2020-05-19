@@ -2,4 +2,4 @@
 Demo Project
 
 Name: Zaid
-NameL: Yax
+Name: Yax
