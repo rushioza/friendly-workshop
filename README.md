@@ -1,6 +1,8 @@
 # friendly-workshop
 Demo Project
 
-Name: Zaid kesarani
 
-edit :- Name : Brijesh Dobariya
+Name: Zaid kesarani
+Name: Harshit 
+Name : Brijesh Dobariya
+
