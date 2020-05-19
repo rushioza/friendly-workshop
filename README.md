@@ -1,5 +1,8 @@
 # friendly-workshop
 Demo Project
 
-Name: Zaid
-Nmae:Harshit 
+
+Name: Zaid kesarani
+Name: Harshit 
+Name : Brijesh Dobariya
+
